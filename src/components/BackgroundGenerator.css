@@ -6,12 +6,13 @@
   letter-spacing: 0.5em;
   padding-top: 15vh;
   min-height: 100vh;
-
   box-sizing: border-box;
   background-size: cover;
   transition: background-size 0.3s ease-in-out;
 }
-
+input{
+  cursor:pointer;
+}
 @media (max-width: 320px) {
 
 
